@@ -2,10 +2,8 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Melissa IS Awesome!"
 
 ---
-
-Melissa Adams is Awesome
 
 Use the left arrow to go back!
